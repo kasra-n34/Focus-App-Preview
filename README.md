@@ -40,9 +40,7 @@ Currently under active development with plans to expand social features and cust
 
 ## 📸 Screenshots
 
-<img width="1470" alt="Screenshot 2025-04-30 at 2 18 05 PM" src="https://github.com/user-attachments/assets/83fb0550-24d0-400e-9483-511df80a897d" />
-<img width="1470" alt="Screenshot 2025-04-30 at 2 18 52 PM" src="https://github.com/user-attachments/assets/d841d092-1ef2-4152-9ae3-49f1fe3409b7" />
-
+<img width="1076" height="567" alt="Screenshot 2025-08-25 at 11 03 16 AM" src="https://github.com/user-attachments/assets/6216926e-82c2-4253-acaf-4ec9104bf99e" />
 ---
 
 ## 💡 Inspiration
